@@ -73,11 +73,7 @@ a, a:hover, a:visited, a:link, a:active {
     color: #528FCC;
     text-decoration: none;
 }
-/*
-a:hover {
-    background-color: #edf0f2;
-}
-*/
+
 p {
     margin: 10px 0;
 }
@@ -125,6 +121,12 @@ p {
     float: left;
     max-width: 200px;
     margin: 0 1em;
+}
+
+@media (max-width: 450px) {
+    .profile div {
+        float: none;
+    }
 }
 
 .profile div img {
