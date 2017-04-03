@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<g id="Guides" display="none">
+</g>
+<g id="Page" display="none">
+	<g display="inline">
+		<rect x="74" fill="#FFFFFF" width="364" height="512"/>
+		<path d="M423,15v482H89V15H423 M434,0H78c-2.2,0-4,1.8-4,4v504c0,2.2,1.8,4,4,4h356c2.2,0,4-1.8,4-4V4C438,1.8,436.2,0,434,0
+			L434,0z"/>
+	</g>
+	<rect x="125" y="73" display="inline" fill="none" width="312.5" height="164.333"/>
+	<text transform="matrix(1 0 0 1 170.1504 225.8979)" display="inline" font-family="'PlantinStd'" font-size="220">M</text>
+	<rect x="125" y="285.417" display="inline" fill="none" width="312.5" height="153.583"/>
+	<text transform="matrix(1 0 0 1 188.4106 438.3145)" display="inline" font-family="'PlantinStd'" font-size="220">D</text>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" x1="124" y1="0" x2="124" y2="512"/>
+</g>
+<g id="Text" display="none">
+	<rect y="205.334" display="inline" fill="none" width="512" height="101.332"/>
+	<text transform="matrix(1 0 0 1 147.5396 305.4131)" display="inline" font-family="'PlantinStd'" font-size="144">MED</text>
+</g>
+<g id="Old_Pen" display="none">
+	<g display="inline">
+		<path d="M67,247c-4.97,0-9,4.03-9,9c0,1.28,0.271,2.496,0.753,3.599C60.142,262.776,63.31,265,67,265s6.858-2.224,8.247-5.401
+			C75.729,258.496,76,257.28,76,256C76,251.03,71.97,247,67,247z"/>
+		<path d="M86.776,201l-8.782,42.559C76.706,239.98,73.491,236,67.056,236s-9.622,3.98-10.91,7.559L47.448,201H87 M89,199H45
+			l9.778,48h2.617c0,0,0.605-9,9.605-9s9.605,9,9.605,9h2.617L89,199L89,199z"/>
+		<rect x="45" y="99" width="44" height="100"/>
+	</g>
+</g>
+<g id="Pen">
+	<path display="none" fill="none" stroke="#000000" stroke-width="6" stroke-miterlimit="10" d="M270,85V68.479
+		c0,0-5.774-5.479-14-5.479s-14,5.479-14,5.479V85"/>
+	<path fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" d="M332.987,376.651c0,0,3.145-15.422,16.366-28.644
+		c13.223-13.224,28.645-16.367,28.645-16.367"/>
+	<path fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" d="M392.785,418.803c0,0,1.91-9.377,9.949-17.415
+		c8.039-8.039,17.415-9.949,17.415-9.949"/>
+	<path fill="none" stroke="#000000" stroke-width="10" stroke-linejoin="round" stroke-miterlimit="10" d="M393.263,418.862
+		L393.263,418.862l-60.535-41.774L79,123.361c0,0,3.267-15.544,16.489-28.767c13.222-13.222,28.766-16.488,28.766-16.488
+		l253.728,253.727l42,60.311l0,0l15.03,41.75L393.263,418.862z"/>
+	<polyline fill="none" stroke="#000000" stroke-width="10" stroke-linejoin="round" stroke-miterlimit="10" points="
+		261.659,190.055 151.351,79.746 138.623,92.474 	"/>
+</g>
+<g id="Line">
+	<line fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" x1="77" y1="434" x2="435" y2="434"/>
+</g>
+</svg>
