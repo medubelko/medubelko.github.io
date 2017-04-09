@@ -46,12 +46,11 @@ header img {
 }
 
 header h1 {
-  font-size: 2em;
+  font-size: 1.75em;
   padding: 0.5em 0;
   text-align: center;
-  /*color: #528FCC;*/
-  text-transform: uppercase;
-  margin-top: 0;
+  /*text-transform: uppercase;*/
+  margin: 0 0 1.75em 0;
 }
 
 header span {
