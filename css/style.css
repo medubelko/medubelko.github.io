@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6, .header-title {
 }
 
 body > h1 {
-    margin-top: 2em;
+    margin-top: 3em;
 }
 
 a, a:hover, a:visited, a:link, a:active {
@@ -126,9 +126,7 @@ p {
 
 /* Profile */
 
-.profile {
-    margin: 5em 0;
-}
+
 
 .profile div {
     float: left;
