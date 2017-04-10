@@ -44,13 +44,6 @@ header img {
     max-height: 50%;
 }
 
-@media (max-width: 450px) {
-    header img {
-        max-width: 75%;
-        max-height: 75%;
-    }
-}
-
 header h1 {
   font-size: 1.75em;
   padding: 0.5em 0;
@@ -64,6 +57,17 @@ header span {
     letter-spacing: 0.02em;
     font-weight: bold;
 }
+
+@media (max-width: 450px) {
+    header {
+        margin-top: 0;
+    }
+
+    header h1 {
+        font-size: 1.25em;
+    }
+}
+
 
 /* Typography */
 
