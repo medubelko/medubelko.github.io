@@ -128,9 +128,12 @@ p {
     width: 100%;
 }
 
+p.file-desc {
+    font-size: 0.8em;
+    color: grey;
+}
+
 /* Profile */
-
-
 
 .profile div {
     float: left;
