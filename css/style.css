@@ -80,6 +80,7 @@ header h1 {
 
 .top-contact {
     margin-top: 3em;
+    color: lightgrey;
 }
 
 @media (max-width: 450px) {
@@ -119,9 +120,9 @@ header h1 {
     font-size: 1em;
 }
 
-/* .portfolio p {
+.portfolio p {
     font-size: 0.8em;
-} */
+}
 
 .portfolio img {
     display: block;
@@ -131,9 +132,13 @@ header h1 {
     width: 100%;
 }
 
-p.file-desc {
-/*     font-size: 0.8em; */
+p.file-desc, p.file-ps {
+    font-size: 0.6666666em;
     color: grey;
+}
+
+p.file-ps {
+    margin: 0;
 }
 
 /* Profile */
