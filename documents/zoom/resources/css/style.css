@@ -1,0 +1,180 @@
+html {
+    margin: 0;
+}
+
+body {
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #444;
+}
+
+body > header {
+    width: 40em;
+    margin: auto;
+    padding-top: 1em;
+}
+
+a.back {
+    font-size: 10px;
+    text-transform: uppercase;
+    border: none;
+    color: #444;
+    padding: 0.5em;
+    text-decoration: none;
+    border: 1px solid #444;
+    border-radius: 6px;
+}
+
+a.back:hover {
+    text-decoration: none;
+    color: black;
+    border-color: black;
+}
+
+a.back::before {
+    content: "<<\00a0\00a0";
+}
+
+main {
+    box-sizing: border-box;
+    width: 40em;
+    margin: auto;
+}
+
+a {
+    color: #26A;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #528;
+}
+
+article header h1,
+article h1,
+article h2,
+article h3,
+article h4 {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #333;
+    margin-top: 48px;
+    margin-bottom: 24px;
+}
+
+article header {
+    margin: 48px 0;
+    color: black;
+}
+
+article header h1 {
+    font-size: 24px;
+    margin: 0;
+    color: black;
+}
+
+article header p.subtitle {
+    font-family: sans-serif;
+    font-size: 20px;
+    margin: 0 0 14px;
+}
+
+article header p.byline {
+    color: #666;
+    margin: 0;
+}
+
+article h1 {
+    font-size: 20px;
+}
+
+article h2 {
+    font-size: 18px;
+}
+
+article h3 {
+    font-size: 16px;
+}
+
+article h4 {
+    font-size: 14px;
+}
+
+article ol p {
+    margin: 0 0 24px 0;
+} 
+
+article ol img {
+    max-width: 24em;
+    max-height: 24em;
+    margin: 0 0 24px 0;
+}
+
+article footer {
+    margin-top: 48px;
+}
+
+article footer p {
+    text-align: right;
+}
+
+img {
+    max-width: 100%;
+}
+
+img.inline {
+    display: inline;
+}
+
+img.block {
+    display: block;
+}
+
+ol.alpha {
+    list-style-type: lower-alpha;
+}
+
+.centered {
+    margin: auto;
+}
+
+body > footer {
+    text-align: center;
+    margin-top: 4em;
+    padding: 2em;
+    background-color: #888;
+    color: white;
+}
+
+body > footer p {
+    font-size: 12px;
+}
+
+body > footer a {
+    color: white;
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 640px) {
+    main, body > header {
+        width: 100%;
+    }
+
+    body > header {
+        margin: 0 1em;
+    }
+
+    main {
+        padding: 0 1em;
+    }
+
+    article ol img {
+        max-width: 100%;
+        max-height: 100%;
+    };
+}
